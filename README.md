@@ -7,3 +7,4 @@ This project is meant to practice code refraction. The source of this project is
 Link to the deployed application: 
 file:///Users/meyekuh/Desktop/micah-horiseon/Develop/index.html#search-engine-optimization 
 
+![](images/horiseon-screenshot.png)
