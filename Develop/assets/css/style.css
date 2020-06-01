@@ -43,7 +43,7 @@ header nav ul li {
 }
 /* Header Style End */
 
-/* Generic Styles Start */
+/* Generic Style Start */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -52,7 +52,7 @@ a {
 p {
     font-size: 16px;
 }
-/* Generic Styles End */
+/* Generic Style End */
 
 /* Hero Style Start */
 .hero {
@@ -65,7 +65,7 @@ p {
 }
 /* Hero Style End */
 
-/* Content Styles Start */
+/* Content Style Start */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -196,7 +196,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Benefits Styles End */
+/* Benefits Style End */
 
 /* Footer Style Start*/
 footer {
