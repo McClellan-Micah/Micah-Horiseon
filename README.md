@@ -5,6 +5,6 @@ This project is meant to practice code refraction. The source of this project is
 
 
 Link to the deployed application: 
-file:///Users/meyekuh/Desktop/micah-horiseon/Develop/index.html
+[Link](https://mcclellan-micah.github.io/micah-horiseon/)
 
 ![Horiseon Screenshot](assets/images/horiseon-screenshot.png)
